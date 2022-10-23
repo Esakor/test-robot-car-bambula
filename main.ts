@@ -1,5 +1,5 @@
 radio.onReceivedNumber(function (receivedNumber) {
-    // make  a butone the mode of sensor
+    // make  a button the mode of sensor
     // and made b button mode of remote control  
     if (receivedNumber == 1) {
         X = 0
